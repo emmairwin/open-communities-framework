@@ -1,9 +1,9 @@
-# Open Communities Worksheet
+# Open Communities Partnerships Launch Worksheet
 
 ## Overview
 
 For open communities to feel successful, they must feel seen, safe, productive and valued. 
-For product teams to grow through community engagement, they must design with success of both their product goals, and communities in mind. It can be tricky at times, but these steps can help you stay focused on the process, which has no beginning and no end - but rather periods of refocus.
+For product teams to grow through community engagement, they must design with success of both their product goals, and communities in mind. It can be tricky at times, but these steps can help you stay focused on the process, which has no beginning and no end - but rather periods of refocus.  Similarly organizations must plan for their employees success working in the open - recognizing efforts as aligned with business goals and rewarding success accordingly.
 
 ---
 
@@ -30,9 +30,17 @@ The word 'community' can mean many things. User communities, activist communitie
 3. Where are they (physically, and globally?)
 4. What challenges, fears or limitations might they have (time, bandwidth, language, political etc)
 5. How might we design contribution to accommodate those limitations?
-6. How will these contributors know they are successful?
-7. What metrics will you use to track contributor success?
+6. How will these contributors **know** they are successful? What recognition formats are most valued by tenure and region?
+7. What metrics will you use to track contributor success?  
 8. Do you have mechanisms or budget for recognition, reward or costs-incurred?
+
+### Community leadership
+
+1. Of the groups collaborating, are there (or should there be) leadership roles?
+2. If so, what skills should they have?
+3. Are you wiling to help facilitate training for gaps in skills?
+4. How will the be held accountable by your team, by the community?
+5. Ho wwill you be accountable for their success?
 
 ---
 
@@ -65,12 +73,14 @@ The role of communication and alignment between communities and brand marketing 
 5. What is your plan for crisis communication or when things don't go as expected?
 6. How will you amplify community successes and insights back to internal teams?
 
-### Creating Community Issues (Open Source Repositories)
+# Pulling it all together (example formats)
+
+## Community Tasks (i.e. GitHub)
 Issues are something that users, and contributors may already do. Defining project priorities through tagging ('project-priority') for example can help people zoom into help where they are most needed.
 
 It's important with issues to be clear if someone is already working on an issue. A common complaint in communities is that visibility isn't always clear, and they waste time.
 
-### Creating Campaigns
+## Community Campaigns
 Campaigns are time-bound initiatives, that map very well to code releases, and other efforts that have a clear launch-date. An end-date helps avoid any trailing efforts that may not be aligned with the original intent, and help people reconnect to new priorities.
 
 **Campaign Components:**
@@ -80,17 +90,5 @@ Campaigns are time-bound initiatives, that map very well to code releases, and o
 4. Steps to participate
 5. Success criteria and how it will be measured
 6. How insights will feed into the next cycle
-
----
-
-## Reuse/Recycle Implementation Notes
-
-**Remember:** This framework operates on a **reuse/recycle** principle with no true beginning or end. Like the recycling symbol, each cycle creates value from the previous one. As you complete one cycle:
-
-- **Product insights** from community engagement inform next iteration planning
-- **Community relationships** built in one cycle become foundations for the next
-- **Employee experience** and skills compound across multiple cycles  
-- **Marketing & Communications** maintains continuity and builds on previous successes
-- **Safety practices** and trust are reinforced and strengthened with each cycle
 
 Each cycle should include a retrospective phase to capture insights and assess safety and inclusion outcomes before beginning the next iteration. **such debt, like technical debt, compounds if not addressed - make it a priority in every cycle.**
