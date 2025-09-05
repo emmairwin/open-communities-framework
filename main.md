@@ -7,7 +7,7 @@ For product teams to grow through community engagement, they must design with su
 
 ---
 
-## Product/Service/Initiative Pre-work
+## Area of work: Product/Service/Initiative
 
 1. What product/service or initiative do you need help with from current, or future community?
 2. Is your content openly licensed, are you OK if people adapt your product into commercial offerings? 
@@ -21,7 +21,7 @@ For product teams to grow through community engagement, they must design with su
 
 ---
 
-## Community & Partnerships
+## Area of work: Community & Partnerships
 
 The word 'community' can mean many things. User communities, activist communities, developer and support to name only a few. Reflecting on your product/initiative goals, now is the time to think deeply about your current and potential collaborators. What do you need? What do your contributors want to do? How can you scope the work to help most feel successful, while not complicating or increasing scope of what needs done?  
 
@@ -34,7 +34,7 @@ The word 'community' can mean many things. User communities, activist communitie
 7. What metrics will you use to track contributor success?  
 8. Do you have mechanisms or budget for recognition, reward or costs-incurred?
 
-### Community leadership
+### Area of work: Community leadership
 
 1. Of the groups collaborating, are there (or should there be) leadership roles?
 2. If so, what skills should they have?
@@ -44,7 +44,7 @@ The word 'community' can mean many things. User communities, activist communitie
 
 ---
 
-## Product Teams Working in the Open
+## Area of work: Employees/Product Teams Working in the Open
 
 Your internal team's understanding and engagement directly impacts community success. They become the bridge between your organization and external contributors, and their experience with community engagement informs the next cycle of product planning.
 
@@ -60,7 +60,7 @@ Your internal team's understanding and engagement directly impacts community suc
 
 ---
 
-## Marketing & Communications
+## Area of work: Marketing & Communications
 
 The role of communication and alignment between communities and brand marketing is crucial. There really is no 'community communications' there is only what your organization says publicly, and what is left to imagination. Fear uncertainty and doubt (FUD) will always emerge where people are left to fill in the gaps of their understanding.
 
@@ -89,6 +89,6 @@ Campaigns are time-bound initiatives, that map very well to code releases, and o
 3. Start date/end date
 4. Steps to participate
 5. Success criteria and how it will be measured
-6. How insights will feed into the next cycle
+6. Communication plan
 
 Each cycle should include a retrospective phase to capture insights and assess safety and inclusion outcomes before beginning the next iteration. **such debt, like technical debt, compounds if not addressed - make it a priority in every cycle.**
