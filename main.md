@@ -1,4 +1,4 @@
-# Open Communities Partnerships Launch Worksheet
+# Open Communities Launch Worksheet
 
 ## Overview
 
